@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Session files (CRITICAL - don't upload these!)
+sessions/
+wabot/
+*.json
+
+# Environment files
+.env
+config.js
+
+# Data files
+data/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+tmp/
+*.tmp
+
+# Backup files
+*.backup
+*.bak
+
+# Credentials
+creds.json
+*.creds
